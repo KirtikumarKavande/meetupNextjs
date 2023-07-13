@@ -3,7 +3,6 @@ import NewMeetupForm from '../components/meetups/NewMeetupForm'
 
 const AddMeetup = () => {
 const onAddMeetup=(item)=>{
-console.log(item)
 }
 
   return (
